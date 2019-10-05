@@ -11,6 +11,7 @@ Flatiron School	Washington, DC
  Software Engineering Immersive Program	June 2019 - Present
  
 **PROJECTS**
+
 Eventr React, Ruby, Rails, HTML, CSS
 * Full stack web application designed to assist users with event planning through automatic generated activities built on a RESTful JSON rails API. 
 * Implemented JSON token-based authentication and multiple navigational routes via React Router.
