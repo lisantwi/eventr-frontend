@@ -12,9 +12,9 @@ Flatiron School	Washington, DC
  
 **PROJECTS**
 Eventr React, Ruby, Rails, HTML, CSS
-*Full stack web application designed to assist users with event planning through automatic generated activities built on a RESTful JSON rails API. 
-*Implemented JSON token-based authentication and multiple navigational routes via React Router.
-*Featured real-time event data from the Eventbrite API 
+* Full stack web application designed to assist users with event planning through automatic generated activities built on a RESTful JSON rails API. 
+* Implemented JSON token-based authentication and multiple navigational routes via React Router.
+* Featured real-time event data from the Eventbrite API 
 Touriend JavaScript, Ruby, Rails, HTML/CSS
 *Full stack web application designed to help travelers find tour guides based on travel destination and language preference. 
 *Featured user authentication and data storage through Devise & Amazon S3, in addition to an interactive, filterable map supported by Google Maps API. 
