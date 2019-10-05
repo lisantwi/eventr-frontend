@@ -1,6 +1,7 @@
 # eventr-frontend
 
-#Lisa Antwi Adjei
+## Lisa Antwi Adjei
+
 _Washington, DC · lisaantwi@gmail.com · 8148808836 · [www.github.com/lisantwi](www.github.com/lisantwi)_
 
 **EDUCATION**
