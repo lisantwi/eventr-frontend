@@ -5,10 +5,13 @@
 _Washington, DC · lisaantwi@gmail.com · 8148808836 · [www.github.com/lisantwi](www.github.com/lisantwi)_
 
 **EDUCATION**
-George Washington University		Washington, DC MS Information Systems Technology - GPA: 3.68
+
+**George Washington University**		_Washington, DC_ 
+MS Information Systems Technology - GPA: 3.68
 Relevant Courses: Structured Programming, Internet Computing, Information Systems Security,
 Relational Databases, Web and Social Data Analytics.	Aug 2017 - Aug 2019
-Flatiron School	Washington, DC
+
+**Flatiron School**	_Washington, DC_
  Software Engineering Immersive Program	June 2019 - Present
  
 **PROJECTS**
