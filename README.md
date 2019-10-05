@@ -38,20 +38,20 @@ Certifications: 	Salesforce Certified Administrator
 
 **PROFESSIONAL EXPERIENCE**
 
-Information Systems Department (GWU)	Washington, DC
-Graduate Teaching Assistant - Information Systems	Jan 2018 | May 2019
+
+**Graduate Teaching Assistant - Information Systems**	Jan 2018 | May 2019, Information Systems Department (GWU)	Washington, DC
 * Led weekly in-class lab tutorials focused on different application software, such as SQL, Excel, Tableau and MS Visio for over 50 students.
 * Created class materials such as a lab guides, exams, lab assignments and course presentations.
 * Assisted faculty members with classroom instruction, exams, record keeping, and other miscellaneous projects.
 
 
-Product Management Intern	Jun 2018 | Aug 2018, CVENT (Tyson's Corner)
+**Product Management Intern**	Jun 2018 | Aug 2018, CVENT (Tyson's Corner)
 * Spearheaded the CVENT Core Badge Editor Project from product conception to prototype design through business, functional and systems requirement gathering and the creation of UI mock-ups.
 * Collaborated with the UX team to improve the CVENT app accessibility standards through in-depth WCAG2.0 Section508.gov research, alpha testing, content specialization and user testing.
 * Created product requirements documentation, user stories and business/systems flow diagrams to support project deliverables.
 
 
-Product Analyst	Jun 2016 |  Jun 2017, Google (via HCL America)	Pittsburgh, PA
+**Product Analyst**	Jun 2016 |  Jun 2017, Google (via HCL America)	Pittsburgh, PA
 * Participated in a cross-functional team project on the curation of data in order to optimize machine learning classification of online product listings on the Benelux market.
 * Worked alongside team leads on the successful introduction of Google Shopping on the Belgian market through Dutch language checks and an expansion of the product taxonomy.
 * Conducted in-depth product research, data analysis and technical writing to develop and maintain an accurate eCommerce product taxonomy utilized across Google teams.
